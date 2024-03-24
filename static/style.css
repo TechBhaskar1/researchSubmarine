@@ -1,0 +1,46 @@
+body{
+	background:	url(bg.jpg) ;
+	background-size:cover ;
+	background-repeat: no-repeat;
+
+}
+
+#head{
+  font-family: "Madimi One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size : 70px;
+	color : aqua;
+}
+
+#data{
+	font-family:monospace;
+	font-size: 18px;
+	color:rebeccapurple;
+	background-color:lightgray;
+	opacity: 90%;
+	margin: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 20px;
+	border-radius: 30px;
+	border: 10px white  solid;
+	margin-top: 30px;
+}
+
+#start{
+	font-size: 30px;
+	font-family: "Madimi One", sans-serif;
+	font-weight: 400;
+    font-style: normal;
+    background-color: #02a370;
+    border-width: 5px;
+    border-color: #14c48c;
+}
+#start:hover{
+	background-color: #02cc8c;
+}
+#main{
+	display: flex;
+	
+}
